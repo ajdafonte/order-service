@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: order-service
+  datasource:
+    url: jdbc:tc:mysql:8.0:///test
+  flyway:
+    locations: classpath:db/migration
