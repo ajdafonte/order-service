@@ -1,0 +1,3 @@
+# For DBRider to perform the proper DB checks
+properties:
+  schema: test
